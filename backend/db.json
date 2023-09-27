@@ -19,6 +19,13 @@
       "image": "https://images.pexels.com/photos/2524368/pexels-photo-2524368.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
     },
     {
+      "id": "london",
+      "city": "London",
+      "description": "Numerous Attractions",
+      "image": "https://www.istockphoto.com/photo/the-city-of-london-skyline-at-night-united-kingdom-gm1312550959-401326148"
+    },
+    
+    {
       "id": "singapore",
       "city": "Singapore",
       "description": "100+ Places",
