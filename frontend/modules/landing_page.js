@@ -4,6 +4,8 @@ async function init() {
   debugger;
   //Fetches list of all cities along with their images and description
   let cities = await fetchCities();
+  console.log("from init()");
+  console.log(config);
 
   //Updates the DOM with the cities
   if (cities) {
@@ -21,6 +23,7 @@ async function fetchCities() {
   try{
     let res = await fetch(config.backendEndpoint+`/cities`);
     let data = await res.json();
+    console.log (data);
     return data;
   }
   catch(e){
