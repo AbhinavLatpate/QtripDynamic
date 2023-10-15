@@ -43,6 +43,12 @@
       "image": "https://images.pexels.com/photos/2422588/pexels-photo-2422588.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
     },
     {
+      "id": "London",
+      "city": "London",
+      "description": "100+ Places",
+      "image": "https://www.pexels.com/photo/low-angle-photo-of-high-rise-building-2526491/"
+    },
+    {
       "id": "paris",
       "city": "Paris",
       "description": "100+ Places",
