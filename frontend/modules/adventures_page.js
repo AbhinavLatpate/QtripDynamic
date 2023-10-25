@@ -90,7 +90,7 @@ function filterByDuration(list, low, high) {
   let filteredList = list.filter((e) => (e.duration>=low && e.duration<=high));
   //console.log(filteredList);
   return filteredList;
-// 
+
 }
 
 //Implementation of filtering by category which takes in a list of adventures, list of categories to be filtered upon and returns a filtered list of adventures.
